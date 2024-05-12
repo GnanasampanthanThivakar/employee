@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">employee</string>
+    <string name="tvTitle">Employee List</string>
+    <string name="btnAdd">Add Employee</string>
+</resources>
